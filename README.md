@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 💬 my social media and blog: [Blog](www.sorlia.site), [知乎](https://www.zhihu.com/people/chen-yun-qing-76)
   
 
-⚡ Fun fact: Billards🎱 badminton🏸 LOL🎮 Coding💻  
+⚡ Fun fact: Billards🎱 Badminton🏸 LOL🎮 Coding💻  
 
 ### :computer: Programming languages and tools: 
 <p>
