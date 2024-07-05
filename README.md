@@ -25,3 +25,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=QingYunA)
 
 ![](https://komarev.com/ghpvc/?username=QingYunA&style=flat-square)
+
+![亮色](https://raw.githubusercontent.com/QingYunA/QingYunA/output/github-contribution-grid-snake.svg)
+
