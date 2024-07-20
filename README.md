@@ -3,7 +3,7 @@
 <img align="right" alt="img" src="https://s2.loli.net/2024/03/14/Jrd3yKiRFjaXD8Y.gif" width="50%" height="auto" />
 
 - 👨‍💻 **I'm Yunqing Chen**, currently engaged in postgraduate studies at University of Science and Technology Beijing.
-- 🔭 I’m currently working on **Medical Image Generate and Segmentation**
+- 🔭 I’m currently working on **Medical Image Generation and Segmentation**
 
 - 📫 How to reach me: Serein7z@163.com,
   
