@@ -2,12 +2,12 @@
 
 <img align="right" alt="img" src="https://s2.loli.net/2024/03/14/Jrd3yKiRFjaXD8Y.gif" width="50%" height="auto" />
 
-- 👨‍💻 **I'm Yunqing Chen**, currently engaged in postgraduate studies at University of Science and Technology Beijing.
-- 🔭 I’m currently working on **Medical Image Generation and Segmentation**
+- 👨‍💻 **I'm Yunqing Chen**, currently engaged in LLM at Sangfor Technologies Inc.
+- 🔭 I’m currently working on **LLM Agent**
 
 - 📫 How to reach me: Serein7z@163.com,
   
-- 💬 my social media and blog: [Blog](www.sorlia.site), [知乎](https://www.zhihu.com/people/chen-yun-qing-76)
+- 💬 my social media: [知乎](https://www.zhihu.com/people/chen-yun-qing-76)
   
 - ⚡ Fun fact: Billards🎱 Badminton🏸 LOL🎮 Coding💻  
 
