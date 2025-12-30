@@ -21,8 +21,9 @@
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=QingYunA&show_icons=true&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=QingYunA)
+
+![Qingyun Github Stats](https://github-readme-stats-murex-psi-52.vercel.app/api?username=QingYunA&show_icons=true&hide_border=true&show=reviews,prs_merged,prs_merged_percentage)
+![](https://github-readme-stats-murex-psi-52.vercel.app/api/top-langs/?username=QingYunA&hide_border=true)
 
 ![](https://komarev.com/ghpvc/?username=QingYunA&style=flat-square)
 
