@@ -2,14 +2,14 @@
 
 <img align="right" alt="img" src="https://s2.loli.net/2024/03/14/Jrd3yKiRFjaXD8Y.gif" width="50%" height="auto" />
 
-- 👨‍💻 **I'm Yunqing Chen**, currently engaged in LLM at Sangfor Technologies Inc.
-- 🔭 I’m currently working on **LLM Agent**
+- 👨‍💻 **I'm Cyan Chan**, currently engaged in LLM at Sangfor Technologies Inc.
+- 🔭 I’m currently working on **Harness Engineering**
 
 - 📫 How to reach me: Serein7z@163.com,
   
-- 💬 my social media: [知乎](https://www.zhihu.com/people/chen-yun-qing-76), [Blog](https://yunqing.org)
+- 💬 my social media: [知乎](https://www.zhihu.com/people/chen-yun-qing-76), [X](https://x.com/smk7z)
   
-- ⚡ Fun fact: Billards🎱 Badminton🏸 LOL🎮 Coding💻  
+- ⚡ Fun fact: Billards 🎱 Badminton 🏸 LOL 🎮   Coding 💻  
 
 ### :computer: Programming languages and tools: 
 <p>
