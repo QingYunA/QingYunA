@@ -2,7 +2,7 @@
 
 <img align="right" alt="img" src="https://s2.loli.net/2024/03/14/Jrd3yKiRFjaXD8Y.gif" width="50%" height="auto" />
 
-- 👨‍💻 **I'm Cyan Chan**, currently engaged in LLM at Sangfor Technologies Inc.
+- 👨‍💻 **I'm Cyan Chan**, currently engaged in LLM & AI Coding & Agent
 - 🔭 I’m currently working on **Harness Engineering**
 
 - 📫 How to reach me: Serein7z@163.com,
