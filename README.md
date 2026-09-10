@@ -1,31 +1,29 @@
-## 👋 Hi there
+### Hi, I'm Cyan (@QingYunA)
 
-<img align="right" alt="img" src="https://s2.loli.net/2024/03/14/Jrd3yKiRFjaXD8Y.gif" width="50%" height="auto" />
+AI Engineer & Toolmaker. Building autonomous agent harnesses, local-first zero-dependency UI systems, and LLM developer infrastructure.
 
-- 👨‍💻 **I'm Cyan Chan**, currently engaged in LLM & AI Coding & Agent
-- 🔭 I’m currently working on **Harness Engineering**
+[Website](https://agent-html-bice.vercel.app) · [Zhihu](https://www.zhihu.com/people/chen-yun-qing-76) · [Email](mailto:Serein7z@163.com)
 
-- 📫 How to reach me: Serein7z@163.com,
-  
-- 💬 my social media: [知乎](https://www.zhihu.com/people/chen-yun-qing-76)
-  
-- ⚡ Fun fact: Billards 🎱 Badminton 🏸 LOL 🎮   Coding 💻  
+---
 
-### :computer: Programming languages and tools: 
-<p>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>
-<!-- <code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code> -->
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-</p>
+#### 🔨 Featured Open Source
 
+- **[agent-html](https://github.com/QingYunA/agent-html)** — Zero-dependency, single-file HTML design system & agent skill inspired by shadcn/ui. 100% offline, zero npm, zero external CDN. Includes 6 layout archetypes and 24 inline vector icons for Claude Code, Pi, and Codex. *(HTML/CSS · 25★)*
+- **[html-manager](https://github.com/QingYunA/html-manager)** — Self-hosted showcase & runner platform for AI artifacts and single-page apps. Built with Next.js 15, Drizzle ORM, multi-viewport runner, and strict CSP iframe sandboxing. *(TypeScript)*
+- **[wecom-notify](https://github.com/QingYunA/wecom-notify)** — Pi Agent Enterprise WeChat notification bridge, pushing agent lifecycle events to chat bots while bypassing terminal OSC tunneling limits. *(TypeScript)*
+- **[skills-marketplace](https://github.com/QingYunA/skills-marketplace)** — Curated collection of specialized skills & workflow extensions for Claude Code and coding agents. *(AI Agent Skills)*
 
-![Qingyun Github Stats](https://github-readme-stats-murex-psi-52.vercel.app/api?username=QingYunA&show_icons=true&hide_border=true&show=reviews,prs_merged,prs_merged_percentage)
-![](https://github-readme-stats-murex-psi-52.vercel.app/api/top-langs/?username=QingYunA&hide_border=true)
+#### 🔬 Focus & Research
 
-![](https://komarev.com/ghpvc/?username=QingYunA&style=flat-square)
+- **Harness Engineering:** Benchmarking autonomous coding agents, session checkpoints, and sandboxed worktrees.
+- **Agent Artifacts & Sandboxing:** Deterministic single-file UI evaluation and isolated iframe runners for LLMs.
+- **Agentic Workflows:** Custom skills development for Claude Code, Pi, and Cursor.
 
-![亮色](https://raw.githubusercontent.com/QingYunA/QingYunA/output/github-contribution-grid-snake.svg)
+#### 🛠️ Tech Stack
 
+- **Core:** Python, TypeScript, HTML/CSS, SQL, Shell
+- **AI & Systems:** Agent Harness, Claude Code / Pi Agent, PyTorch, LLM Eval & Fine-tuning
+- **Frameworks:** Next.js 15+, TailwindCSS, Astro, Drizzle ORM, FastAPI
+
+---
+<sub>Crafted with facts & clean typography. Zero vanity metrics.</sub>
