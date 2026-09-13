@@ -28,7 +28,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/QingYunA/html-manager">html-manager</a></h3>
+      <h3><a href="https://github.com/QingYunA/html-manager">Pagepod</a></h3>
       <p>Self-hosted showcase & runner platform for AI artifacts and single-page apps. Built with Next.js 15, Drizzle ORM, multi-viewport runner & CSP sandboxing.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-15-black?style=flat&logo=next.js" alt="Next.js" />
