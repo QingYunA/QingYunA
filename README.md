@@ -6,7 +6,6 @@
 
 <p>
   <a href="https://agent-html-bice.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Showcase-agent--html-18181b?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"></a>
-  <a href="https://www.zhihu.com/people/chen-yun-qing-76" target="_blank"><img src="https://img.shields.io/badge/Zhihu-知乎专栏-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="Zhihu"></a>
   <a href="mailto:Serein7z@163.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-10b981?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email"></a>
 </p>
 
