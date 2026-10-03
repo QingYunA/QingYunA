@@ -17,6 +17,18 @@
 
 <table width="100%">
   <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/QingYunA/answer-me-with-html">Answer me with HTML</a></h3>
+      <p>Agent skill that answers hard questions with a one-page HTML instead of a wall of text. The model writes a short Markdown draft; a bundled CLI handles layout, auto-laid-out diagrams and a controlled-English writing check. Measured: 7.4× fewer output tokens and 3.6× faster than asking for HTML directly.</p>
+      <p>
+        <img src="https://img.shields.io/github/stars/QingYunA/answer-me-with-html?style=flat&color=d97757" alt="Stars" />
+        <img src="https://img.shields.io/badge/npx_skills-add-10b981?style=flat" alt="Install" />
+        <img src="https://img.shields.io/badge/output_tokens-7.4%C3%97_fewer-18181b?style=flat" alt="Tokens" />
+        <img src="https://img.shields.io/badge/Claude_Code-Plugin-7C3AED?style=flat" alt="Claude Code" />
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/QingYunA/agent-html">agent-html</a></h3>
       <p>Zero-dependency, single-file HTML design system & agent skill for LLMs inspired by shadcn/ui. 100% offline, zero npm, zero external CDN.</p>
@@ -33,24 +45,6 @@
         <img src="https://img.shields.io/badge/Next.js-15-black?style=flat&logo=next.js" alt="Next.js" />
         <img src="https://img.shields.io/badge/Drizzle-ORM-C5F74F?style=flat" alt="Drizzle" />
         <img src="https://img.shields.io/badge/Tailwind-CSS-38bdf8?style=flat" alt="Tailwind" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/QingYunA/wecom-notify">wecom-notify</a></h3>
-      <p>Pi Agent Enterprise WeChat notification bridge, pushing agent lifecycle events to chat bots while bypassing terminal OSC tunneling limits.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Pi_Agent-Extension-18181b?style=flat" alt="Pi Agent" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/QingYunA/skills-marketplace">skills-marketplace</a></h3>
-      <p>Curated collection of specialized skills, reporting workflows, and engineering extensions for Claude Code and coding agents.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Claude_Code-Skills-7C3AED?style=flat" alt="Claude Code" />
-        <img src="https://img.shields.io/badge/Status-Active-10b981?style=flat" alt="Status" />
       </p>
     </td>
   </tr>
