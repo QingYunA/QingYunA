@@ -2,11 +2,11 @@
 
 # Cyan · AI Engineer & Toolmaker
 
-> *Building autonomous agent harnesses, local-first UI systems, and LLM developer tooling.*
+> *Agent skill that answers hard questions with a one-page HTML instead of a wall of text.*
 
 <p>
-  <a href="https://agent-html-bice.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Live_Showcase-agent--html-18181b?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"></a>
-  <a href="mailto:Serein7z@163.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-10b981?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/QingYunA/answer-me-with-html" target="_blank"><img src="https://img.shields.io/badge/Featured-Answer_me_with_HTML-18181b?style=for-the-badge&logo=github&logoColor=white" alt="Answer me with HTML"></a>
+  <a href="mailto:sorlia7z@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-10b981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 </div>
